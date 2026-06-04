@@ -19,7 +19,7 @@ entities:
               - dps_val: hot
                 value: heat
               - dps_val: auto
-                value: heat
+                value: heat_cool
       - id: 2
         type: integer
         name: temperature
